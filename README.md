@@ -1,1 +1,1 @@
-# React-Native
+# Favorite Places Tracker App
